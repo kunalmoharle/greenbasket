@@ -3,10 +3,6 @@
 ## Project Description 
 An online vegetable sales application allows customers to easily purchase fresh, locally sourced vegetable from their phone or computer. With a user-friendly interface, customers can browse and select from a wide variety of fruits and vegetables, customize their order, and choose a delivery or pickup option that works for them.
 
-<br>
-<img src="https://user-images.githubusercontent.com/107461052/212683987-3cf29572-7af3-4b84-bc8d-57c594f8a75e.png"  width="400" height="200" position="center">
-<br>
-
 - An online vegetable sales application allows customers to easily purchase fresh, locally sourced produce from their phone or computer.
 - The application features a user-friendly interface, allowing customers to browse and select from a wide variety of fruits and vegetables.
 - Customers can customize their order and choose a delivery or pickup option that works for them.
